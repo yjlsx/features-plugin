@@ -1,0 +1,147 @@
+[
+    {
+        "name": "SatellaJailed",
+        "version": "v1.0.3",
+        "description": "تمكين عمليات الشراء داخل التطبيق للتطبيقات المدعومه\r\nتجاوز قيود الدفع وفتح الميزات لبعض التطبيقات",
+        "app_url": "",
+        "icon_url": "",
+        "dylib": "https:\/\/trollfools.slpmods.net\/downloads\/SatellaJailed.dylib",
+        "section": "Utilities",
+        "size": "323 KB",
+        "author": "Satella"
+    },
+    {
+        "name": "Calculator",
+        "version": "v1.0",
+        "description": "تمكنك الحزمه من عرض سجل لاخر عمليات حسابيه قمت بها في تطبيق الحاسبه",
+        "app_url": "https:\/\/apps.apple.com\/sa\/app\/calculator\/id1069511488",
+        "icon_url": "https:\/\/trollfools.slpmods.net\/icons\/687299fa1c7c6_2EE84718-2462-4E26-BE6A-A12B3659CF5D.png",
+        "dylib": "https:\/\/trollfools.slpmods.net\/downloads\/687299fa1ca6d_calc.dylib",
+        "section": "Tools",
+        "size": "199 KB",
+        "author": "SLP",
+        "screenshots": []
+    },
+    {
+        "name": "BHTwitter",
+        "version": "v4.4",
+        "description": "مميزات الأداة:\r\n- إلغاء الاعلانات.\r\n- فتح مميزات تويتر بلو.\r\nوالكثير...",
+        "app_url": "https:\/\/apps.apple.com\/sa\/app\/twitter\/id333903271",
+        "icon_url": "https:\/\/trollfools.slpmods.net\/icons\/68729ba1efd5a_BHTwitter.png",
+        "dylib": "https:\/\/trollfools.slpmods.net\/downloads\/68729ba1effc7_BHTwitter_4.4_Trollfools.zip",
+        "section": "Social",
+        "size": "10 MB",
+        "author": "BandarHL",
+        "screenshots": [
+            "https:\/\/trollfools.slpmods.net\/screenshots\/68729ba1f3950_IMAGE%201447-01-17%2020:29:53.jpg",
+            "https:\/\/trollfools.slpmods.net\/screenshots\/IMAGE%201447-01-17-20:32:26.jpg",
+            "https:\/\/trollfools.slpmods.net\/screenshots\/IMAGE%201447-01-17-20:32:25.jpg"
+        ]
+    },
+    {
+        "name": "BHTikTok",
+        "version": "v4.1",
+        "description": "مميزات الاداه:\r\n• لا توجد إعلانات\r\n• تنزيل مقاطع الفيديو\r\n• تنزيل الموسيقى\r\n• زر إظهار\/إخفاء واجهة المستخدم\r\n• نسخ وصف الفيديو\r\n• نسخ رابط الفيديو\r\n• نسخ رابط الموسيقى\r\n• تشغيل الفيديو التالي تلقائيًا\r\n• إظهار شريط التقدم\r\n• تأكيد الإعجاب\r\n• تأكيد الإعجاب بالتعليق\r\n• تأكيد عدم الإعجاب بالتعليق\r\n• تأكيد المتابعة\r\n• حفظ صورة الملف الشخصي\r\n• نسخ معلومات الملف الشخصي\r\n• تمديد السيرة الذاتية\r\n• تمديد التعليق\r\n• الفتح دائمًا في سفاري\r\n• تغيير المنطقة\r\n• علامة التوثيق الزرقاء المزيفة\r\n• عدد متابعين مزيف\r\n• عدد الذين تتابعهم مزيف\r\n• قفل\r\nإستمتع 👻",
+        "app_url": "https:\/\/apps.apple.com\/sa\/app\/tiktok-videos-music-live\/id835599320",
+        "icon_url": "https:\/\/trollfools.slpmods.net\/icons\/6873e4ed80e44_unnamed.jpg",
+        "dylib": "https:\/\/trollfools.slpmods.net\/downloads\/6873e4ed81077_BHTikTokPlus_2.3.1.zip",
+        "section": "Social",
+        "size": "2 MB",
+        "author": "BandarHL",
+        "screenshots": []
+    },
+    {
+        "name": "YTLite",
+        "version": "v5.2b1",
+        "description": "مميزات الاداه:\r\n• تنزيل مقاطع الفيديو، الصوت (مع إمكانية اختيار المسار الصوتي)، الصور المصغرة، المنشورات، وصور الملف الشخصي\r\n• نسخ معلومات الفيديو والتعليقات والمنشورات\r\n• تخصيص الواجهة: إزالة عناصر الصفحة الرئيسية، إعادة ترتيب علامات التبويب، تفعيل وضع OLED، واستخدام وضع الفيديوهات القصيرة (Shorts) فقط\r\n• إعدادات المشغّل: التحكم بالإيماءات، الجودة الافتراضية، المسار الصوتي المفضل\r\n• حفظ وتحميل واستعادة الإعدادات. مسح ذاكرة التخزين المؤقت مرة واحدة أو تلقائيًا عند بدء تشغيل التطبيق\r\n• أداة SponsorBlock مدمجة (لتخطي المقاطع الدعائية داخل الفيديو)\r\n• وأكثر من ذلك بكثير",
+        "app_url": "https:\/\/apps.apple.com\/sa\/app\/youtube\/id544007664",
+        "icon_url": "",
+        "dylib": "https:\/\/trollfools.slpmods.net\/downloads\/6873e7af38734_YTLite_5.2b1.zip",
+        "section": "Social",
+        "size": "16 MB",
+        "author": "dayanch96",
+        "screenshots": [],
+        "updated_at": "2025-07-16 04:23:31",
+        "updated_by": "SLPMods"
+    },
+    {
+        "name": "Watusi 3",
+        "version": "v1.2.76",
+        "description": "إضافة ميزات إلى تطبيق واتساب بما في ذلك التحكم في إيصالات القراءة ومؤشرات الكتابة وإخفاء حالة الاتصال بالإنترنت والعديد من ميزات الخصوصية الأخرى.",
+        "app_url": "https:\/\/apps.apple.com\/sa\/app\/whatsapp-messenger\/id310633997",
+        "icon_url": "https:\/\/avatars.githubusercontent.com\/u\/6962327?v=4",
+        "dylib": "https:\/\/trollfools.slpmods.net\/downloads\/AllTweaksFouad_Trollfools.zip",
+        "section": "Social",
+        "size": "22 MB",
+        "author": "FouadRaheb",
+        "screenshots": [
+            "https:\/\/trollfools.slpmods.net\/screenshots\/watusi_screenshot1.png",
+            "https:\/\/trollfools.slpmods.net\/screenshots\/watusi_screenshot2.png",
+            "https:\/\/trollfools.slpmods.net\/screenshots\/watusi_screenshot3.png",
+            "https:\/\/trollfools.slpmods.net\/screenshots\/watusi_screenshot4.png",
+            "https:\/\/trollfools.slpmods.net\/screenshots\/watusi_screenshot5.png"
+        ],
+        "updated_at": "2025-07-16 04:14:47",
+        "updated_by": "SLPMods"
+    },
+    {
+        "name": "ALLFLEXing",
+        "version": "v1.2.1",
+        "description": "بعد الحقن في التطبيق\r\nاضغط بثلاث اصابع في الشريط العلوي مع الاستمرار",
+        "app_url": "",
+        "icon_url": "",
+        "dylib": "https:\/\/trollfools.slpmods.net\/downloads\/6873e9c106d1e_AllFLEXing.dylib",
+        "section": "Development",
+        "size": "3 MB",
+        "author": "NSExceptional",
+        "screenshots": [
+            "https:\/\/trollfools.slpmods.net\/screenshots\/6873e9c10853c_Preferences.png",
+            "https:\/\/trollfools.slpmods.net\/screenshots\/6873e9c1087fb_Weather.png"
+        ],
+        "updated_at": "2025-07-17 10:28:17",
+        "updated_by": "SLPMods"
+    },
+    {
+        "name": "LocalIAPStore",
+        "version": "v1.0.0",
+        "description": "فتح مميزات بعض التطبيقات\r\nاحقن في اي تطبيق\r\nشراء - ثم إلغاء",
+        "app_url": "",
+        "icon_url": "",
+        "dylib": "https:\/\/trollfools.slpmods.net\/downloads\/6873eb44a3386_Localiapstore-AB.deb",
+        "section": "Utilities",
+        "size": "43 KB",
+        "author": "SLP",
+        "screenshots": []
+    },
+    {
+        "name": "iNoAds",
+        "version": "v1.0.0",
+        "description": "قم بحقنها في اي تطبيق لإلغاء إعلاناته",
+        "app_url": "",
+        "icon_url": "",
+        "dylib": "https:\/\/trollfools.slpmods.net\/downloads\/687575e309a46_iNoAds.dylib",
+        "section": "Utilities",
+        "size": "72 KB",
+        "author": "SLP",
+        "screenshots": [],
+        "updated_at": "2025-07-18 07:09:07",
+        "updated_by": "SLPMods"
+    },
+    {
+        "name": "ADSpeed",
+        "version": "v1.0.0",
+        "description": "قم بحقنها في اي تطبيق يحتوي على إعلانات لتسريع إعلاناته",
+        "app_url": "",
+        "icon_url": "",
+        "dylib": "https:\/\/trollfools.slpmods.net\/downloads\/6879d35924557_ADSpeedSLP.dylib",
+        "section": "Utilities",
+        "size": "129.36 KB",
+        "author": "SLP",
+        "screenshots": [],
+        "created_at": "2025-07-18 07:53:45",
+        "updated_at": "2025-07-18 07:53:45",
+        "created_by": "SLPMods"
+    }
+]
+选择语言​▼
+x1.00
