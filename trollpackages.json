@@ -1,0 +1,10 @@
+{
+  "plugins": [
+    {"name": "AwemeDisableBar", "url": "https://raw.githubusercontent.com/yjlsx/features-plugin/refs/heads/main/AwemeDisableBar.dylib"},
+    {"name": "CamScanner扫描全能王_Premium", "url": "https://raw.githubusercontent.com/yjlsx/features-plugin/refs/heads/main/CamScanner扫描全能王_Premium.dylib"},
+    {"name": "DYYY抖音魔术师2.2-8-0617", "url": "https://raw.githubusercontent.com/yjlsx/features-plugin/refs/heads/main/DYYY抖音魔术师2.2-8-0617.dylib"},
+    {"name": "wps破解0.0.1", "url": "https://raw.githubusercontent.com/yjlsx/features-plugin/refs/heads/main/wps破解0.0.1.dylib"},
+    {"name": "哔哩哔哩净化", "url": "https://raw.githubusercontent.com/yjlsx/features-plugin/refs/heads/main/哔哩哔哩净化.dylib"},
+    {"name": "百度网盘", "url": "https://raw.githubusercontent.com/yjlsx/features-plugin/refs/heads/main/百度网盘.dylib"}
+  ]
+}
