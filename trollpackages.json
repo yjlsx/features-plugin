@@ -1,7 +1,4 @@
-{
-  "repository_name": "features-plugin",
-  "repository_icon": "https://yjlsx.github.io/features-plugin/repo-icon.png",
-  "packages": [
+ [
     {
       "name": "抖音魔术师",
       "version": "v2.2.8",
@@ -152,5 +149,3 @@
 
 
   ]
-
-}
