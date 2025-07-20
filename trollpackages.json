@@ -1,17 +1,16 @@
-
-[
+{
+  "name": "自制插件源",
+  "author": "yjlsx",
+  "iconURL": "https://yjlsx.github.io/features-plugin/icons/repo-icon.png",
+  "packages": [
     {
-      "name": "Stay Pro",
-      "version": "v1.0.0",
-      "description": "Stay Pro",
-      "app_url": "https://apps.apple.com/cn/app/stay-for-safari-浏览器伴侣/id1591620171",
-      "icon_url": "https://yjlsx.github.io/features-plugin/icons/Stay.png",
-      "dylib": "https://yjlsx.github.io/features-plugin/downloads/Stay%20Pro.dylib",
-      "section": "Social",
-      "size": "317KB",
-      "author": " ",
-      "screenshots": [],
-      "updated_at": "2025-07-20 11:09:07",
-      "updated_by": "ME"
+      "name": "Stay",
+      "developer": "StayDev",
+      "description": "保活插件",
+      "version": "1.0",
+      "iconURL": "https://yjlsx.github.io/features-plugin/icons/Stay.png",
+      "url": "https://yjlsx.github.io/features-plugin/downloads/StayPro.dylib"
     }
   ]
+}
+
