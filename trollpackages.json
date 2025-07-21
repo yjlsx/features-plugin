@@ -15,6 +15,18 @@
       "screenshots": []
     },
     {
+      "name": "抖音图层",
+      "version": "v2.3.1-5",
+      "description": "抖音插件",
+      "app_url": "https://apps.apple.com/cn/app/%E6%8A%96%E9%9F%B3/id1142110895",
+      "icon_url": "https://yjlsx.github.io/features-plugin/icons/DYYY2.2-8-0617-icon.png",
+      "dylib": "https://yjlsx.github.io/features-plugin/downloads/%E6%8A%96%E9%9F%B3%E5%9B%BE%E5%B1%82%202.3.1-5%20%E6%97%A0%E6%A0%B9%20.deb",
+      "section": "抖音插件",
+      "size": "3.4MB",
+      "author": "x✨",
+      "screenshots": []
+    },
+    {
       "name": "扫描全能王Premium",
       "version": "v1.0.0",
       "description": "扫描全能王插件",
@@ -168,7 +180,7 @@
         "icon_url": "https://yjlsx.github.io/features-plugin/icons/youtube.png",
         "dylib": "https://yjlsx.github.io/features-plugin/downloads/YTPlus_0603.zip",
         "section": "Social",
-        "size": "8007KB",
+        "size": "8MB",
         "author": "dayanch96",
         "screenshots": [],
         "updated_at": "2025-07-21 04:23:31",
@@ -176,7 +188,7 @@
     },
     {
         "name": "百度地图图层",
-        "version": "v5.2b1",
+        "version": "v1.0.0",
         "description": "设置界面单指长按开启插件设置,移除底部周边/移除底部打车/移除底部公共交通/搜索仅保留历史记录/移除行程分享（不需要某功能自己插件内关闭）",
         "app_url": "https:\/\/apps.apple.com\/cn\/app\/百度地图-路线规划-出行必备\/id452186370",
         "icon_url": "https://yjlsx.github.io/features-plugin/icons/baidumap.png",
@@ -237,7 +249,7 @@
         "app_url": "https:\/\/apps.apple.com\/cn\/app\/微信\/id414478124",
         "icon_url": "https://yjlsx.github.io/features-plugin/icons/wx.png",
         "dylib": "https://yjlsx.github.io/features-plugin/downloads/PKC0.7.8.dylib",
-        "section": "Social",
+        "section": "微信插件",
         "size": "3428KB",
         "author": "",
         "screenshots": [],
@@ -245,19 +257,46 @@
         "updated_by": ""
     },
     {
-        "name": "微信插件黄白助手",
+        "name": "微信黄白助手",
         "version": "v1.8.8",
         "description": "",
         "app_url": "https:\/\/apps.apple.com\/cn\/app\/微信\/id414478124",
         "icon_url": "https://yjlsx.github.io/features-plugin/icons/wx.png",
         "dylib": "https://yjlsx.github.io/features-plugin/downloads/hb188.dylib",
-        "section": "Social",
+        "section": "微信插件",
         "size": "35466KB",
         "author": "",
         "screenshots": [],
         "updated_at": "2025-07-21 04:23:31",
         "updated_by": ""
+    },
+    {
+        "name": "微信助手",
+        "version": "v3.8.5",
+        "description": "",
+        "app_url": "https:\/\/apps.apple.com\/cn\/app\/微信\/id414478124",
+        "icon_url": "https://yjlsx.github.io/features-plugin/icons/wx.png",
+        "dylib": "https://yjlsx.github.io/features-plugin/downloads/mao.miyou3.8.5.dylib",
+        "section": "微信插件",
+        "size": "24MB",
+        "author": "",
+        "screenshots": [],
+        "updated_at": "2025-07-21 04:23:31",
+        "updated_by": ""
+    },
+    {
+        "name": "微信插件收纳",
+        "version": "v0.1.3",
+        "description": "",
+        "app_url": "https:\/\/apps.apple.com\/cn\/app\/微信\/id414478124",
+        "icon_url": "https://yjlsx.github.io/features-plugin/icons/wx.png",
+        "dylib": "https://yjlsx.github.io/features-plugin/downloads/chajianshouna.dylib",
+        "section": "微信插件",
+        "size": "125KB",
+        "author": "",
+        "screenshots": [],
     }
+
 
 
 
