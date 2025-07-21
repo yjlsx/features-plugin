@@ -151,7 +151,7 @@
       "version": "v1.0.0",
       "description": "Stay Pro",
       "app_url": "https://apps.apple.com/cn/app/stay-for-safari-浏览器伴侣/id1591620171",
-      "icon_url": "https://yjlsx.github.io/features-plugin/icons/staypro-icon.png",
+      "icon_url": "https://yjlsx.github.io/features-plugin/icons/StayPro-icon.png",
       "dylib": "https://yjlsx.github.io/features-plugin/downloads/StayPro.dylib",
       "section": "Social",
       "size": "317KB",
