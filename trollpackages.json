@@ -9,7 +9,7 @@
       "app_url": "https://apps.apple.com/cn/app/%E6%8A%96%E9%9F%B3/id1142110895",
       "icon_url": "https://yjlsx.github.io/features-plugin/icons/DYYY2.2-8-0617-icon.png",
       "dylib": "https://yjlsx.github.io/features-plugin/downloads/DYYY2.2-8-0719.dylib",
-      "section": "Social",
+      "section": "抖音插件",
       "size": "2247KB",
       "author": "",
       "screenshots": []
@@ -45,7 +45,7 @@
       "app_url": "https://apps.apple.com/cn/app/%E6%8A%96%E9%9F%B3/id1142110895",
       "icon_url": "https://yjlsx.github.io/features-plugin/icons/AwemeDisableBar-icon.png",
       "dylib": "https://yjlsx.github.io/features-plugin/downloads/AwemeDisableBar.dylib",
-      "section": "Social",
+      "section": "抖音插件",
       "size": "703KB",
       "author": "",
       "screenshots": []
@@ -294,7 +294,43 @@
         "section": "微信插件",
         "size": "125KB",
         "author": "",
-        "screenshots": [],
+        "screenshots": []
+    },
+    {
+        "name": "Twitter插件X-BHT",
+        "version": "v1.0.0",
+        "description": "Twitter插件",
+        "app_url": "https:\/\/apps.apple.com\/cn\/app\/x\/id333903271",
+        "icon_url": "https://yjlsx.github.io/features-plugin/icons/Twitter.png",
+        "dylib": "https://yjlsx.github.io/features-plugin/downloads/X-BHT.zip",
+        "section": "Social",
+        "size": "9MB",
+        "author": "",
+        "screenshots": []
+    },
+    {
+        "name": "TG插件TGExtra",
+        "version": "v1.2.1",
+        "description": "TG插件",
+        "app_url": "https:\/\/apps.apple.com\/us\/app\/telegram-messenger\/id686449807",
+        "icon_url": "https://yjlsx.github.io/features-plugin/icons/TG.png",
+        "dylib": "https://yjlsx.github.io/features-plugin/downloads/TGExtra_1.2-1.zip",
+        "section": "Social",
+        "size": "9.5MB",
+        "author": "",
+        "screenshots": []
+    },
+    {
+        "name": "Infuse插件",
+        "version": "v2.0.0",
+        "description": "InfusePlus插件",
+        "app_url": "https:\/\/apps.apple.com\/cn\/app\/infuse\/id1136220934",
+        "icon_url": "https://yjlsx.github.io/features-plugin/icons/InfusePlus.png",
+        "dylib": "https://yjlsx.github.io/features-plugin/downloads/InfusePlus_2.0.zip",
+        "section": "Social",
+        "size": "994KB",
+        "author": "",
+        "screenshots": []
     }
 
 
