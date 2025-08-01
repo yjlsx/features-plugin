@@ -331,6 +331,18 @@
         "size": "994KB",
         "author": "",
         "screenshots": []
+    },
+    {
+        "name": "拦截猫",
+        "version": "v1.5.40",
+        "description": "解锁会员",
+        "app_url": "https:\/\/apps.apple.com\/sv\/app\/拦截猫-垃圾短信电话拦截\/id6476010032",
+        "icon_url": "https://yjlsx.github.io/features-plugin/icons/lanjiemao.png",
+        "dylib": "https://yjlsx.github.io/features-plugin/downloads/拦截猫1.5.40.dylib",
+        "section": "实用工具",
+        "size": "571KB",
+        "author": "",
+        "screenshots": []
     }
 
 
