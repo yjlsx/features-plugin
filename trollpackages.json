@@ -321,12 +321,12 @@
         "screenshots": []
     },
     {
-        "name": "Infuse插件",
-        "version": "v2.0.0",
+        "name": "Infuse",
+        "version": "v2.3.0",
         "description": "InfusePlus插件",
         "app_url": "https:\/\/apps.apple.com\/cn\/app\/infuse\/id1136220934",
         "icon_url": "https://yjlsx.github.io/features-plugin/icons/InfusePlus.png",
-        "dylib": "https://yjlsx.github.io/features-plugin/downloads/InfusePlus_2.0.zip",
+        "dylib": "https://yjlsx.github.io/features-plugin/downloads/InfusePlus_2.3.zip",
         "section": "Social",
         "size": "994KB",
         "author": "",
