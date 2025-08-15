@@ -178,7 +178,7 @@
         "description": "配套插件：YouTube Plus、YouPiP、YTUHD、画质按钮；插件选项都是嵌入到油管设置（视频画质偏好里还有VP9相关设置）；自行TrollFools注入。",
         "app_url": "https:\/\/apps.apple.com\/cn\/app\/youtube\/id544007664",
         "icon_url": "https://yjlsx.github.io/features-plugin/icons/youtube.png",
-        "dylib": "https://yjlsx.github.io/features-plugin/downloads/YTPlus_0811(YTL5.2b3).zip",
+        "dylib": "https://yjlsx.github.io/features-plugin/downloads/YTPlus_0812.zip",
         "section": "Social",
         "size": "8MB",
         "author": "dayanch96",
