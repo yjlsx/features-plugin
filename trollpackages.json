@@ -16,11 +16,11 @@
     },
     {
       "name": "抖音图层",
-      "version": "v2.3.1-5",
+      "version": "v2.3.1-6",
       "description": "抖音插件",
       "app_url": "https://apps.apple.com/cn/app/%E6%8A%96%E9%9F%B3/id1142110895",
       "icon_url": "https://yjlsx.github.io/features-plugin/icons/DYYY2.2-8-0617-icon.png",
-      "dylib": "https://yjlsx.github.io/features-plugin/downloads/%E6%8A%96%E9%9F%B3%E5%9B%BE%E5%B1%82%202.3.1-5%20%E6%97%A0%E6%A0%B9%20.deb",
+      "dylib": "https://yjlsx.github.io/features-plugin/downloads/%E6%8A%96%E9%9F%B3%E5%9B%BE%E5%B1%82%202.3.1-6%20%E6%97%A0%E6%A0%B9%20.deb",
       "section": "抖音插件",
       "size": "3.4MB",
       "author": "x✨",
