@@ -286,7 +286,7 @@
         "description": "解锁会员",
         "app_url": "https:\/\/apps.apple.com\/cn\/app\/酷狗音乐-就是歌多\/id472208016",
         "icon_url": "https://yjlsx.github.io/features-plugin/icons/kugou.png",
-        "dylib": "https://yjlsx.github.io/features-plugin/downloads/yckugouvip.dylib",
+        "dylib": "https://yjlsx.github.io/features-plugin/downloads/KuGouCK.dylib",
         "section": "Social",
         "size": "172KB",
         "author": "",
