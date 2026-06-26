@@ -362,11 +362,11 @@
     },
     {
         "name": "Twitter插件X-NFB",
-        "version": "v1.0.0",
+        "version": "v5.6",
         "description": "Twitter插件",
         "app_url": "https:\/\/apps.apple.com\/cn\/app\/x\/id333903271",
         "icon_url": "https://yjlsx.github.io/features-plugin/icons/Twitter.png",
-        "dylib": "https://yjlsx.github.io/features-plugin/downloads/X-NFB5.5.zip",
+        "dylib": "https://yjlsx.github.io/features-plugin/downloads/X-NFB5.6.zip",
         "section": "Social",
         "size": "10.7MB",
         "author": "",
