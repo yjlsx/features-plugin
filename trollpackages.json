@@ -225,6 +225,20 @@
         "updated_by": ""
     },
     {
+        "name": "Youtube翻译",
+        "version": "v1.0",
+        "description": "翻译。",
+        "app_url": "https:\/\/apps.apple.com\/cn\/app\/youtube\/id544007664",
+        "icon_url": "https://yjlsx.github.io/features-plugin/icons/youtube.png",
+        "dylib": "https://yjlsx.github.io/features-plugin/downloads/YouTubeAI.dylib",
+        "section": "Social",
+        "size": "200kb",
+        "author": "dytub",
+        "screenshots": [],
+        "updated_at": "2026-09-10 04:23:31",
+        "updated_by": ""
+    },
+    {
         "name": "百度地图图层",
         "version": "v1.0.0",
         "description": "设置界面单指长按开启插件设置,移除底部周边/移除底部打车/移除底部公共交通/搜索仅保留历史记录/移除行程分享（不需要某功能自己插件内关闭）",
