@@ -433,7 +433,20 @@
         "size": "571KB",
         "author": "",
         "screenshots": []
+    },
+    {
+        "name": "wuzei",
+        "version": "v1.0",
+        "description": "解锁会员",
+        "app_url": "",
+        "icon_url": " ",
+        "dylib": "https://yjlsx.github.io/features-plugin/downloads/SquidVIP.dylib",
+        "section": "实用工具",
+        "size": "50KB",
+        "author": "",
+        "screenshots": []
     }
+
 
 
 
