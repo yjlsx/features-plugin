@@ -226,11 +226,11 @@
     },
     {
         "name": "Youtube翻译",
-        "version": "v1.2",
+        "version": "v1.3",
         "description": "翻译。",
         "app_url": "https:\/\/apps.apple.com\/cn\/app\/youtube\/id544007664",
         "icon_url": "https://yjlsx.github.io/features-plugin/icons/youtube.png",
-        "dylib": "https://yjlsx.github.io/features-plugin/downloads/YTBTStandalone.dylib",
+        "dylib": "https://yjlsx.github.io/features-plugin/downloads/YTAI-BilingualCaptions.zip",
         "section": "Social",
         "size": "200kb",
         "author": "dytub",
